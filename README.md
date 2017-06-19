@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi 
+Mary here.  I'm not a developer, just completing a pre-req
